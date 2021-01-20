@@ -44,7 +44,7 @@ As there is a lot of visualization work in the broad field of AI, the following 
 
 ### Other
 
-- [Tensorflow Playground](#tensorflow_playground)
+- [Tensorflow Playground](#tensorflow-playground)
 
 ## Details (Alphabetically)
 
@@ -146,7 +146,7 @@ Latex plugin to draw neural network figures.
 
 ![PlotNeuralNet Example Figure](images/plotneuralnet.png)
 
-### Tensorflow Playground
+### TensorFlow Playground
 
 Interactive learning environment for training simple neural networks.
 
